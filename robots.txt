@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.hyppocampus.org/
+Sitemap: https://hyppocampus.org/
